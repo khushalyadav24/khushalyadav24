@@ -1,5 +1,10 @@
 # 💫 About Me:
-💻I’m currently working on<br>Improving my programming and software development skills while building academic and personal projects.<br><br>🤝 I’m looking to collaborate on<br>Web development projects, beginner-friendly software applications, and innovative student tech projects.<br><br>🆘 I’m looking for help with<br>Advanced development concepts, real-world project experience, and learning industry best practices.<br><br>🌱 I’m currently learning<br>Master of Computer Applications (MCA) – First Year, along with .NET development, database management, and modern web technologies.<br><br>💬 Ask me about<br>Basic programming, web development, database concepts, and student tech projects.<br><br>⚡ Fun fact<br>I enjoy learning new technologies and turning ideas into practical applications.
+💻 I’m currently working on – Improving my programming and software development skills through academic and personal projects.<br><br>
+🤝 I’m looking to collaborate on – Web development, beginner-friendly applications, and innovative student tech projects.<br><br>
+🆘 I’m looking for help with – Advanced development concepts, real-world project exposure, and industry best practices.<br><br>
+🌱 I’m currently learning – MCA (First Year) along with .NET development, database management, and modern web technologies.<br><br>
+💬 Ask me about – Basic programming, web development, database concepts, and student tech projects.<br><br>
+⚡ Fun fact – I enjoy exploring new technologies and converting ideas into practical applications.
 
 
 ## 🌐 Socials:
