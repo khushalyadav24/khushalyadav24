@@ -1,4 +1,4 @@
-<h1 align="center">✨ I'm Khushal Yadav ✨</h1>
+<h1 align="center"> I'm Khushal Yadav </h1>
 <h3 align="center">BCA Graduate | MCA Student | Aspiring Software Developer</h3>
 
 # 💫 About Me:
