@@ -1,7 +1,7 @@
 <h1 align="center"> I'm Khushal Yadav </h1>
 <h3 align="center">BCA Graduate | MCA Student | Aspiring Software Developer</h3>
 
-# 💫 About Me:
+# About Me:
 💻 I’m currently working on – Improving my programming and software development skills through academic and personal projects.<br><br>
 🤝 I’m looking to collaborate on – Web development, beginner-friendly applications, and innovative student tech projects.<br><br>
 🆘 I’m looking for help with – Advanced development concepts, real-world project exposure, and industry best practices.<br><br>
