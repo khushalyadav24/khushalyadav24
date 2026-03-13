@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Khushal Yadav </h1>
-<h3 align="center">BCA Graduate | MCA Student | Aspiring Software Developer</h3>
+<h3 align="center">BCA Graduate | Aspiring Software Developer</h3>
 
 # About Me:
 💻 I’m currently working on – Improving my programming and software development skills through academic and personal projects.<br><br>
